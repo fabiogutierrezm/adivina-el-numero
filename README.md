@@ -1,6 +1,6 @@
 # 🎯 Adivina el Número – Juego en Python
 
-Este repositorio contiene la práctica final del módulo **Programación Python** del Máster en Big Data.  
+Este repositorio contiene la práctica final del módulo **Programación básica en Python** del Máster Data Science, Big Data & Business Analytics.  
 El objetivo del proyecto es desarrollar un juego interactivo que permita adivinar un número, aplicando los conocimientos adquiridos en clase: estructuras de control, funciones, validación de entradas, manipulación de archivos, etc.
 
 ---
